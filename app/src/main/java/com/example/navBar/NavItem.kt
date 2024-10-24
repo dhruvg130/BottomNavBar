@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.navBar
 
 import androidx.compose.ui.graphics.vector.ImageVector
 
